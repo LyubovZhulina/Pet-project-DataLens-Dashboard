@@ -1,4 +1,4 @@
-# Pet-project-DataLens-Dashbord
+# Pet-project-DataLens-Dashboard
 
 Цель дашборда показать аналитику по всем вакансиям, собранным с трех ресурсов (hh.ru, vseti.ru, career.habr.com):
 * индикаторы общего числа вакансий в базе, общего количества компаний-работодателей;
